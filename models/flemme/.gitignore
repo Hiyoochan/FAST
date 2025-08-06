@@ -1,0 +1,12 @@
+build/
+checkpoint/
+data/
+dist/
+results/
+*.egg-info/
+*.out
+*.pyc
+__pycache__
+path/
+log/
+tmp_img/

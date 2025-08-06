@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fast
+Version: 0.0.1
+Author: NA
+License: MIT
+Requires-Python: >=3.7
+Dynamic: author
+Dynamic: license
+Dynamic: requires-python

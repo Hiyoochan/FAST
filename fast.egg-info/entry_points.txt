@@ -1,0 +1,2 @@
+[console_scripts]
+train_fast = fast.train_fast:main

@@ -1,0 +1,12 @@
+setup.py
+fast/fastselector.py
+fast/GAselector.py
+fast/__init__.py
+fast/__version__.py
+fast/dataio.py
+fast/train_fast.py
+fast.egg-info/PKG-INFO
+fast.egg-info/SOURCES.txt
+fast.egg-info/dependency_links.txt
+fast.egg-info/entry_points.txt
+fast.egg-info/top_level.txt
