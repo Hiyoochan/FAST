@@ -22,6 +22,7 @@ def colorize_by_label(labels):
         
     colors = _color_table[labels.flatten()].reshape(labels.shape + (-1,))
     return colors
+    
 ### 2D image
 def colorize_img_by_label(label, img, gt = None, background = 0, threshold = 0.5, alpha = 0.65):
     assert label.shape[0] == 1, \
